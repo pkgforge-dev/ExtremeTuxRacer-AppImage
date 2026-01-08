@@ -11,6 +11,7 @@ export UPINFO="gh-releases-zsync|${GITHUB_REPOSITORY%/*}|${GITHUB_REPOSITORY#*/}
 export ICON=/usr/share/pixmaps/etr.png
 export DESKTOP=/usr/share/applications/net.sourceforge.extremetuxracer.desktop
 export DEPLOY_OPENGL=1
+export PATH_MAPPING='/usr/share/etr:${SHARUN_DIR}/share/etr'
 
 # Deploy dependencies
 quick-sharun \
