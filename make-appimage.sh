@@ -18,5 +18,7 @@ quick-sharun \
 	/usr/bin/etr \
 	/usr/share/etr
 
+# Additional changes can be done in between here
+
 # Turn AppDir into AppImage
 quick-sharun --make-appimage
